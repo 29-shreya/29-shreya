@@ -19,12 +19,13 @@ I'm eager to learn new technologies and apply my knowledge to practical projects
 - SQL and MySQL
 - Machine Learning fundamentals
 - Git and GitHub
+- 
+## 📂 My Projects
 
-## 📂 Projects
-
-- AutoML Iris Prediction API
-- All India Villages API
-- Image Processing and Computer Vision Lab
+- **Spam Email Detection** — A machine learning project for classifying emails as spam or legitimate.
+- **AgriConnect** — A web platform designed to connect farmers directly with consumers.
+- **KrishSathi** — An AI-based assistant designed to support sugarcane farmers.
+- **Mental Health Support & Mood Tracker** — An application designed to support mental well-being and mood tracking.
 
 ## 🌱 Currently Learning
 
